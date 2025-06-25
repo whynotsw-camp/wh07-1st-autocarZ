@@ -31,31 +31,25 @@
     <td>DB 구축<br>클라우드 관리</td>
     <td>AI<br>프론트엔드</td>
     <td>AI<br>백엔드</td>
-    <td>AI<br>데이터 파이프라인</td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/siwon-git">
+      <a href="https://github.com/jiyoung1634">
         <img src="https://img.shields.io/badge/GitHub-Link-black?logo=github&style=flat"/>
       </a>
     </td>
     <td>
-      <a href="https://github.com/sangmin-ai">
+      <a href="https://github.com/LYSS-LGU">
         <img src="https://img.shields.io/badge/GitHub-Link-black?logo=github&style=flat"/>
       </a>
     </td>
     <td>
-      <a href="https://github.com/jisun-cloud">
+      <a href="https://github.com/Clear-head">
         <img src="https://img.shields.io/badge/GitHub-Link-black?logo=github&style=flat"/>
       </a>
     </td>
     <td>
-      <a href="https://github.com/seyeon-front">
-        <img src="https://img.shields.io/badge/GitHub-Link-black?logo=github&style=flat"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/seoyoung-back">
+      <a href="https://github.com/irisyshin">
         <img src="https://img.shields.io/badge/GitHub-Link-black?logo=github&style=flat"/>
       </a>
     </td>
