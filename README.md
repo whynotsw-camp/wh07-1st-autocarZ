@@ -21,14 +21,10 @@
     <th>신윤서</th>
   </tr>
   <tr>
-    <td><img src="![image](https://github.com/user-attachments/assets/3c347b94-3b95-4d42-82ea-ee20c7dfcc45)
-" width="100"/></td>
-    <td><img src="![image](https://github.com/user-attachments/assets/44c93308-1e79-4dc5-8ac0-a2dbd30785e8)
-" width="100"/></td>
-    <td><img src="![image](https://github.com/user-attachments/assets/26c18044-d8ab-4b8b-a5a9-fb6ccd8b1071)
-" width="100"/></td>
-    <td><img src="![image](https://github.com/user-attachments/assets/9b3cd675-6764-4b3e-bca3-7a356b20843f)
-" width="100"/></td>
+    <td><img src="https://github.com/user-attachments/assets/3c347b94-3b95-4d42-82ea-ee20c7dfcc45" width="100"/></td>
+    <td><img src="https://github.com/user-attachments/assets/44c93308-1e79-4dc5-8ac0-a2dbd30785e8" width="100"/></td>
+    <td><img src="https://github.com/user-attachments/assets/26c18044-d8ab-4b8b-a5a9-fb6ccd8b1071" width="100"/></td>
+    <td><img src="https://github.com/user-attachments/assets/9b3cd675-6764-4b3e-bca3-7a356b20843f" width="100"/></td>
   </tr>
   <tr>
     <td>PM<br>데이터 파이프라인</td>
