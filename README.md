@@ -134,16 +134,14 @@
   - 데이터 유형: [정량, 정성]
 
 ## 3. 기술 스택
-#### **📌 데이터 수집**
+### **📌 데이터 수집**
 - 사용 언어 : ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - 사용 도구 : ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![API](https://img.shields.io/badge/API-005571?style=flat&logo=api&logoColor=white)
 
----
-#### **📊 데이터 분석**
+### **📊 데이터 분석**
 - 분석 라이브러리 : ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
 - 머신러닝 : ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
----
 ### **📈 시각화**
 - 시각화 도구 : ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-1E3C72?style=flat) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 
@@ -157,5 +155,5 @@
 
 
 ## 4. 예상 문제 및 해결 방안
-- **문제**: 데이터 불균형  
-  **해결 방안**: SMOTE 기법 활용
+- **문제**: 도로공사 API 미제공 
+  **해결 방안**: 로컬 테스트 서버 구현해 자동 신고 시스템 구축
