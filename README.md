@@ -15,7 +15,8 @@ whynotsw-camp 1st-template 레포지토리입니다.
 - 목표 : **데이터 기반 인사이트 도출 및 시각적 보고**
   
 ### 시각적 자료
-![image](https://github.com/user-attachments/assets/4e79d9f8-9ab4-47de-90b7-6784bdbf108a)
+![image](https://github.com/user-attachments/assets/33eac463-c086-4af8-87b1-f4d72e2dea94)
+
 
 
 
