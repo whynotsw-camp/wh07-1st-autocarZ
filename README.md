@@ -1,4 +1,4 @@
-# wh07-1st-autocarZ
+# wh07-1st-autocarZ(오또카지)
 
 # 1st-template
 whynotsw-camp 1st-template 레포지토리입니다.
@@ -10,8 +10,9 @@ whynotsw-camp 1st-template 레포지토리입니다.
 # 프로젝트 기획서
 
 ## 1. 프로젝트 개요
-- 프로젝트 주제: **[주제]**
-- 목표: **데이터 기반 인사이트 도출 및 시각적 보고**
+- 프로젝트 주제 : **[도로 위 야생동물 실시간 인식 및 대응 시스템 : AI기반 자율주행 안전 강화 솔루션 설계]**
+- 문제정의 : **주행 중 도로에 갑자기 나타나는 "야생동물"을 효과적으로 감지하여 사고 예방과 충돌 이후 신속하게 대응할 수 있는 체계 부재**
+- 목표 : **데이터 기반 인사이트 도출 및 시각적 보고**
   
 ### 시각적 자료
 ![프로젝트 기획서 다이어그램] ![Uploading image.png…](https://github.com/user-attachments/assets/06d3c48f-e8ff-46b4-afd2-2206c57a7099)
