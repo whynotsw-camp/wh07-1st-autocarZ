@@ -1,6 +1,6 @@
 # 🚍 AutocarZ - 자율주행 중 로드킬 안전 강화 및 자동 신고 서비스
 
-## 🙋‍♂️🙋‍♀️ 팀원 소개
+# 🙋‍♂️🙋‍♀️ 팀원 소개
 
 <table>
   <tr>
@@ -44,6 +44,8 @@
     </td>
   </tr>
 </table>
+
+-------------------------------------------------------------
 
 # 프로젝트 기획서
 
@@ -132,9 +134,29 @@
   - 데이터 유형: [정량, 정성]
 
 ## 3. 기술 스택
-- **데이터 수집**: Python, Selenium, API 활용
-- **분석**: Pandas, NumPy, Scikit-learn
-- **시각화**: Matplotlib, Seaborn, Plotly
+### **📌 데이터 수집**
+- 사용 언어 : ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- 사용 도구 : ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![API](https://img.shields.io/badge/API-005571?style=flat&logo=api&logoColor=white)
+
+---
+### **📊 데이터 분석**
+- 분석 라이브러리 : ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
+- 머신러닝 : ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+---
+### **📈 시각화**
+- 시각화 도구 : ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-1E3C72?style=flat) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+
+---
+### **🤖 딥러닝 / AI**
+- 모델 : ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=YOLO&logoColor=black) ![ResNet50](https://img.shields.io/badge/ResNet50-FF5959?style=flat)
+- 프레임워크 : ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+---
+### 🗃️ 인프라 & 배포
+- 클라우드 : ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white)
+- 데이터베이스 : ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
 
 ## 4. 예상 문제 및 해결 방안
 - **문제**: 데이터 불균형  
