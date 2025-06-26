@@ -59,7 +59,8 @@
 
 
 ### 프로젝트 기획서 다이어그램
-![image](https://github.com/user-attachments/assets/9d54914c-298f-4ef2-8873-69ffc49fe5da)
+![image](https://github.com/user-attachments/assets/d06d7764-3e74-48f4-86b6-3c986cd86838)
+
 
 
 
@@ -139,7 +140,8 @@
 # 프로젝트 설계서
 
 ## 1. 시스템 아키텍처
-![image](https://github.com/user-attachments/assets/c157bcea-15d4-4a49-905c-c694dd084fb5)
+![image](https://github.com/user-attachments/assets/3cabd67c-b14b-4875-b09e-33e1a23d4a80)
+
 
 - **구성 요소**:
   - 데이터 수집 모듈
