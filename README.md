@@ -146,7 +146,7 @@
 ## 1-2. 시스템 흐름 구성도
 
 <img src="https://github.com/user-attachments/assets/0585374b-6ce7-426e-964a-0872f94d9b9d" width=5%>
-System은 전반적으로 Python으로 구성
+ System은 전반적으로 **Python**으로 구성
 
 - **구성 요소**:
   - 데이터 수집 모듈
