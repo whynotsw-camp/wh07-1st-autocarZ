@@ -146,11 +146,10 @@
 ## 1-2. 시스템 흐름 구성도
 
 ![image](https://github.com/user-attachments/assets/27616406-bb5d-45bf-9abd-92d60cbe5690)
-![image](https://github.com/user-attachments/assets/27616406-bb5d-45bf-9abd-92d60cbe5690)
 
-
+  System은 전반적으로 **Python**으로 구성 
 <img src="https://github.com/user-attachments/assets/0585374b-6ce7-426e-964a-0872f94d9b9d" width=3%>
- <\t> System은 전반적으로 **Python**으로 구성
+
 
 - **구성 요소**:
   - 데이터 수집 모듈
