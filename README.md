@@ -141,7 +141,8 @@
 # 프로젝트 설계서
 
 ## 1. 시스템 아키텍처
-![image](https://github.com/user-attachments/assets/3cabd67c-b14b-4875-b09e-33e1a23d4a80)
+![image](https://github.com/user-attachments/assets/fd706b11-a03f-4ab7-99fa-1b5a7d405f64)
+
 
 ## 1-2. 시스템 흐름 구성도
 
