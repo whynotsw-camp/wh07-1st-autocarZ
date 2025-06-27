@@ -16,10 +16,10 @@
     <td><img src="https://github.com/user-attachments/assets/9b3cd675-6764-4b3e-bca3-7a356b20843f" width="100"/></td>
   </tr>
   <tr>
-    <td>PM<br>데이터 파이프라인</td>
-    <td>DB 구축<br>클라우드 관리</td>
-    <td>AI<br>프론트엔드</td>
-    <td>AI<br>백엔드</td>
+    <td>PM<br></td>
+    <td>팀원<br></td>
+    <td>팀원<br></td>
+    <td>팀원<br></td>
   </tr>
   <tr>
     <td>
